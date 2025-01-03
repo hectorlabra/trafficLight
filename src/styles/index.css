@@ -1,3 +1,14 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background-color: #121212;
+  color: #ffffff;
+  font-family: Arial, sans-serif;
+}
+
 .traffic-light {
   background: #333;
   padding: 10px;
@@ -49,4 +60,18 @@
 button {
   margin: 10px;
   padding: 5px 10px;
+  background-color: #444;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #555;
+}
+
+.footer {
+  margin-top: 20px;
+  text-align: center;
 }
