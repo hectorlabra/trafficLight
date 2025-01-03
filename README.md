@@ -60,4 +60,4 @@ npm run dev
 
 ## 👨‍💻 Desarrollador
 
-Desarrollado por Héctor Lab
+Desarrollado por Héctor Labra
